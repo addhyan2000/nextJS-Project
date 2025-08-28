@@ -1,4 +1,4 @@
-# Addhyan — Modern Software Solutions Website
+# Addhyan's — Modern Software Solutions Website
 
 An elegant, responsive landing site showcasing services, team, and testimonials. Built with Next.js 13, Tailwind CSS, and React, designed for performance and a clean developer experience.
 
